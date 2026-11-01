@@ -1,61 +1,76 @@
 # Guilherme de Souza
 
-**Software Developer · AI-Assisted Development · Business Automation**
+### Salesforce Administrator Junior en formación · CRM · Datos · Automatización de procesos
 
-Hi! I'm Guilherme, a self-taught developer who enjoys turning practical problems into working software. I use AI coding tools such as Codex in my development workflow, and focus on defining requirements, testing results, fixing problems and improving products.
+📍 **Mallorca, España** · Disponible para oportunidades en Valencia y otras ciudades de España  
+🌍 **Portugués nativo · Español fluido · Alemán fluido · Inglés intermedio**  
+💼 [LinkedIn](https://www.linkedin.com/in/guilherme-de-souza-a231b2409/) · ✉️ [Contacto profesional](mailto:gui.1101.souza@hotmail.com)
 
-📍 Currently in Spain · Planning to relocate to Düsseldorf, Germany (November 2026)  
-📧 **Contact:** [gui.1101.souza@hotmail.com](mailto:gui.1101.souza@hotmail.com)  
-🌍 **Languages:** Portuguese (native), Spanish & German (fluent), English (intermediate)
+## 👋 Perfil profesional
 
-## What I work on
+Estoy orientando mi carrera hacia **Salesforce Administration y CRM**, combinando aprendizaje práctico en Salesforce con experiencia previa en **atención al cliente, operaciones y coordinación de equipos**.
 
-- Building web and mobile applications
-- Automating business processes with Python and APIs
-- Developing useful tools for real operational needs
-- Debugging, testing and improving software with AI-assisted workflows
+He desarrollado herramientas de software para resolver necesidades reales de negocio. Utilizo tecnologías como **Python, JavaScript, React y Firebase**, y herramientas de desarrollo asistido por IA, incluido Codex, para definir requisitos, implementar soluciones, probarlas y mejorarlas.
 
-## Selected projects
+**Busco mi primera oportunidad en Salesforce/CRM.** No tengo aún experiencia laboral como administrador de Salesforce ni la certificación oficial.
 
-### [ElaFinance — Financial SaaS for beauty professionals](https://ela-finance-demo.pages.dev/)
-A web application for beauty and aesthetics professionals to manage their business finances, with dashboards and financial goals.
+## ☁️ Salesforce · Formación y práctica
 
-**Stack:** JavaScript · React · HTML/CSS · Firebase · Vite · Cloudflare Pages  
-**[View live demo →](https://ela-finance-demo.pages.dev/)**
+- ✅ **Trailhead — Administrador principiante (Admin Beginner): completado**
+- 📚 **Trailhead — Administrador intermedio (Admin Intermediate): en curso**
+- 🎯 **Salesforce Certified Platform Administrator: en preparación (certificación aún no obtenida)**
 
-### My Finance — Personal Finance App
-A cross-platform personal finance application for Android and web. Android APK builds are produced with Expo EAS. This is a local/private project, not a public service.
+**Conocimientos practicados:**
+- **CRM y modelado de datos:** objetos estándar/personalizados, campos, Lookup y Master-Detail.
+- **Administración de datos:** Data Import Wizard, exportación de datos y mapeo CSV.
+- **Análisis:** informes, filtros, agrupaciones y dashboards.
+- **Lógica declarativa:** campos de fórmula, Roll-Up Summary y reglas de validación.
+- **Seguridad:** permisos de objeto y campo, Permission Sets, OWD, jerarquía de roles y reglas de compartición.
+- **Lightning:** personalización de aplicaciones e indicaciones de orientación para usuarios.
 
-**Stack:** JavaScript · React Native · Expo · Firebase Authentication · Firestore · Expo EAS
+📂 [Ver prácticas de Salesforce en Trailhead](./SALESFORCE-LABS.md)
 
-### Ice Diamond — Telegram Inventory Bot
-Built an inventory-control bot for an ice business. It lets users check quantities and record stock movements through Telegram, using Firebase to store stock data.
+## 🛠️ Proyectos seleccionados
 
-**Stack:** Python · Telegram Bot API · Flask · Firebase Realtime Database  
-*Private business project — source code and business data are not publicly shared.*
+### [ElaFinance — Gestión financiera para profesionales de belleza](https://ela-finance-demo.pages.dev/)
 
-### PT Reborn — PC-to-Mobile Game Adaptation
-An ongoing project adapting a classic PC RPG experience to mobile. The work includes gameplay systems, combat, inventory, NPCs, HUD and asset-conversion tools.
+Aplicación web para registrar ingresos y gastos, gestionar precios, objetivos y métricas del negocio.
 
-**Stack:** Unity · C# · ShaderLab/HLSL · Python  
-*Legacy C/C++ source code is used as a reference.*
+**Tecnologías:** JavaScript · React · HTML/CSS · Firebase · Vite · Cloudflare Pages  
+🔗 [Ver aplicación web](https://ela-finance-demo.pages.dev/)
 
-## Other technical projects
+### Ice Diamond — Control de inventario con bot de Telegram
 
-**eToro Paper Bot:** Python automation using GitHub Actions to run stock-strategy simulations and publish a simple dashboard. **Simulation only; no real-money orders.**
+Solución para consultar existencias y registrar movimientos de stock en una empresa de hielo, mediante Telegram y una base de datos.
 
-**Market Data API Bridge:** TypeScript and Express service with endpoints for reading public cryptocurrency market data, designed for deployment on Vercel.
+**Tecnologías:** Python · Telegram Bot API · Flask · Firebase Realtime Database  
+🔒 Código y datos empresariales privados.
 
-## How I work
+### My Finance — App de finanzas personales
 
-I use AI-assisted development to speed up implementation and investigate technical problems. I focus on understanding the objective, checking the result and iterating until it works. I'm especially interested in **business automation, process improvement, software development and junior technology roles** where I can keep learning with a team.
+Proyecto personal para Android/web, con autenticación y datos gestionados en Firebase.
+
+**Tecnologías:** JavaScript · React Native · Expo · Firebase Auth · Firestore  
+🔒 Proyecto local/privado; sin demo pública.
+
+### Otros proyectos técnicos
+
+- **PT Reborn:** desarrollo de videojuego móvil con Unity, C#, HLSL y herramientas en Python; en curso.
+- **eToro Paper Bot:** simulaciones de estrategias con Python y GitHub Actions; **sin operaciones con dinero real**.
+- **Market Data API Bridge:** servicio REST con TypeScript y Express para consultar datos públicos de mercado; no ejecuta operaciones financieras.
+
+## 🎯 Oportunidades profesionales
+
+**Salesforce Administrator Junior · CRM Support · Consultor CRM Junior · Salesforce Support · Soporte técnico con alemán**
+
+Me interesa un puesto de entrada con formación y trabajo en equipo, donde pueda aportar experiencia con clientes, idiomas y capacidad para resolver problemas técnicos.
 
 ---
 
-### Kurz auf Deutsch
+### English · Brief introduction
 
-Ich bin Autodidakt und entwickle Apps und kleine Programme. Ich nutze KI-Tools wie Codex, um Ideen umzusetzen, Fehler zu finden und Lösungen zu testen.
+I'm transitioning into **Salesforce administration and CRM**, combining Trailhead hands-on practice with previous experience in customer-facing and operational roles. I've completed **Admin Beginner** and I'm studying **Admin Intermediate**. I'm preparing for the official Platform Administrator certification but am **not certified yet**. I also build software using Python, React and Firebase with AI-assisted development tools. My English is intermediate; I speak Portuguese, Spanish and German fluently.
 
-Ich habe zum Beispiel eine Finanz-App, eine mobile App und einen Telegram-Bot für die Lagerverwaltung entwickelt. Ich interessiere mich besonders für **Automatisierung, KI und die Verbesserung von Arbeitsabläufen**.
+### Deutsch · Kurzprofil
 
-**Ich plane, im November 2026 nach Düsseldorf zu ziehen.**
+Ich möchte im Bereich **Salesforce Administration und CRM** arbeiten. Den Trailhead-Lernpfad **Admin Beginner** habe ich abgeschlossen; aktuell lerne ich **Admin Intermediate** und bereite mich auf die offizielle Administrator-Zertifizierung vor. **Noch bin ich nicht zertifiziert.** Ich habe praktische Projekte mit Python, React und Firebase entwickelt und Erfahrung im Kundenkontakt. Ich spreche fließend Deutsch, Spanisch und Portugiesisch.
