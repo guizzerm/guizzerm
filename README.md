@@ -2,7 +2,7 @@
 
 ### Salesforce Administrator Junior en formación · CRM · Datos · Automatización de procesos
 
-📍 **Mallorca, España** · Disponible para oportunidades en Valencia y otras ciudades de España  
+📍 **Mallorca, España** · **Trabajo híbrido en Mallorca** · **Trabajo remoto para empresas de España, Alemania, Portugal, Brasil y otros países de habla española, alemana o portuguesa**  
 🌍 **Portugués nativo · Español fluido · Alemán fluido · Inglés intermedio**  
 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-de-souza-a231b2409/) · ✉️ [Contacto profesional](mailto:gui.1101.souza@hotmail.com)
 
