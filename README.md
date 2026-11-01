@@ -56,8 +56,6 @@ Proyecto personal para Android/web, con autenticación y datos gestionados en Fi
 ### Otros proyectos técnicos
 
 - **PT Reborn:** desarrollo de videojuego móvil con Unity, C#, HLSL y herramientas en Python; en curso.
-- **eToro Paper Bot:** simulaciones de estrategias con Python y GitHub Actions; **sin operaciones con dinero real**.
-- **Market Data API Bridge:** servicio REST con TypeScript y Express para consultar datos públicos de mercado; no ejecuta operaciones financieras.
 
 ## 🎯 Oportunidades profesionales
 
